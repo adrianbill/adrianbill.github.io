@@ -1,4 +1,5 @@
 # AJ's 2024 Christmas List
+Items will automatically update as I add them.
 
 ## Items
 1. [Engineer SS-02 Solder Sucker, amazon.com, ~20USD](https://www.amazon.com/dp/B002MJMXD4)
