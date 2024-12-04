@@ -10,4 +10,4 @@ Items will automatically update as I add them.
 | Deburring Tool                | amazon.ca #1    | 17 CAD   | [link](https://www.amazon.ca/Approved-Automotive-Deburring-Blade-Blades/dp/B01L2XR4P2) |
 |                               | amazon.ca #2    | 18 CAD   | [link](https://www.amazon.ca/AFA-Tooling-Deburring-High-Speed-Removal/dp/B07RM1D6WD) |
 | AN870 Multimeter Pro ([picture](https://ae-pic-a1.aliexpress-media.com/kf/S33e410a50f3a411fa6c23589d2b33fd2j.jpg)) | AliExpress | 47 CAD   | [link](https://www.aliexpress.com/item/1005005491874457.html) |
-
+| USB Microscope                | amazon.ca       | 30 CAD   | [link](https://www.amazon.ca/Jiusion-Magnification-Endoscope-Microscope-Compatible/dp/B06WD843ZM) |
